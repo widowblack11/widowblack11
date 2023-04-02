@@ -7,21 +7,14 @@
 
 <!--About me-->
 
-## :information_desk_person:About me
-
-- My name is Maks, I'm 23 years old.
-- I'm automation engineer from Saransk.
-- I work QA about 5 years (4 years AQA).
-- I write autotests in Python, JS
-- Contacts:
+## :information_desk_person:Contacts
 
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/maksim_kudaev"><img width="32px" alt="Telegram" title="Telegram" src="images/social_networks/tg.png"/></a>
+  <a href="(https://t.me/okyepppp)"><img width="32px" alt="Telegram" title="Telegram" src="images/social_networks/tg.png"/></a>
   &#8287;
 </p>
 
-<p><a href="https://disk.yandex.ru/d/uNwqhAVjSWqrNw">Certificates</a> 📜</p>
 
 <!--Git Stats-->
 

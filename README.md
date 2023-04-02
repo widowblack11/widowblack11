@@ -56,6 +56,7 @@
   <code><img width="5%" title="Postman" src="images/logo_stacks/postman.png"></code>
   <code><img width="5%" title="Telegram" src="images/logo_stacks/tg.png"></code>
   <code><img width="5%" title="PgAdmin" src="images/logo_stacks/pgadmin.png"></code>
+  <code><img width="5%" title="Charles" src="images/logo_stacks/charles.jpeg"></code>
 </p>
 
 

@@ -11,7 +11,7 @@
 
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="(https://t.me/okyepppp)"><img width="32px" alt="Telegram" title="Telegram" src="images/social_networks/tg.png"/></a>
+  <a href="https://t.me/okyepppp"><img width="32px" alt="Telegram" title="Telegram" src="images/logo_stacks/tg.png"/></a>
   &#8287;
 </p>
 
